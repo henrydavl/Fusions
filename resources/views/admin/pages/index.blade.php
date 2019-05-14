@@ -1,0 +1,23 @@
+@extends('layout.adminMaster')
+@section('content')
+    <div class="container-fluid">
+        @include('inc.alert')
+        @switch($pages)
+            @case('home')
+            @include('admin.pages.in.home')
+            @break
+            @case('portfolio')
+            @include('admin.pages.in.portfolio')
+            @break
+            @case('meet-us')
+            @include('admin.pages.in.meet-us')
+            @break
+            @case('contact-us')
+            @include('admin.pages.in.contact-us')
+            @break
+            @case('about-us')
+            @include('admin.pages.in.about-us')
+            @break
+        @endswitch
+    </div>
+@endsection

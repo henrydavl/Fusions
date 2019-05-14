@@ -1,0 +1,674 @@
+.separator {
+  width: 93px;
+}
+
+.top {
+  padding-top: 3em;
+}
+
+.head {
+  background-image: url(../../assets/img/bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Raleway';
+  background-attachment: fixed;
+  height: 1000px;
+  background-position: center;
+  background-color: #5900EB;
+  background-blend-mode: multiply;
+}
+
+.link {
+  margin-left: 1em;
+  margin-right: 1em;
+  color: white;
+  font-weight: bolder;
+  font-size: 11pt;
+}
+
+.login {
+  width: 120px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.signup {
+  width: 120px;
+  text-align: center;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+.slogan {
+  color: white;
+  font-weight: 500;
+  text-align: center;
+}
+
+.header {
+  margin-top: 17em;
+}
+
+.tagline {
+  font-size: 40pt;
+  font-weight: bolder;
+}
+
+.tagline2 {
+  font-size: 35pt;
+  font-weight: bolder;
+  color: rgb(0,0,0);
+}
+
+.tagline3 {
+  font-size: 30pt;
+  font-weight: bolder;
+}
+
+.desc {
+  margin-top: 2em;
+  font-size: 13pt;
+  margin-bottom: 2em;
+}
+
+.web {
+  text-align: center;
+}
+
+.design {
+  text-align: center;
+}
+
+.des {
+  height: 50px;
+  width: 180px;
+  border-radius: 10px;
+  background-color: white;
+  color: #6700EB;
+  font-weight: bolder;
+  border: 2px solid transparent;
+  padding-top: 12px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.log {
+  height: 38px;
+  width: 140px;
+  border-radius: 10px;
+  background-color: white;
+  color: #6700EB;
+  font-weight: bold;
+  border: 2px solid white;
+  text-align: center;
+  padding-top: 5px;
+  font-size: 12pt;
+}
+
+.weba:hover {
+  border-radius: 10px;
+  background-color: white;
+  color: #6700EB;
+  font-weight: bolder;
+  border-color: white;
+}
+
+.sign:hover {
+  border-radius: 10px;
+  background-color: white;
+  color: #6700EB;
+  font-weight: bolder;
+  border-color: white;
+}
+
+.weba {
+  height: 50px;
+  width: 180px;
+  border-radius: 10px;
+  font-weight: bolder;
+  border: 2px solid white;
+  background-color: transparent;
+  padding-top: 12px;
+  text-align: center;
+  color: white;
+}
+
+.subs:hover {
+  border-radius: 10px;
+  font-weight: bolder;
+  border: 2px solid rgb(103,0,235);
+  background-color: transparent;
+  font-size: 13pt;
+  color: rgb(103,0,235);
+}
+
+.subs {
+  height: 50px;
+  width: 200px;
+  border-radius: 10px;
+  font-weight: bolder;
+  border: 2px solid rgb(103,0,235);
+  background-color: rgb(103,0,235);
+  font-size: 13pt;
+  text-align: center;
+  color: white;
+  padding-top: 11px;
+}
+
+.sign {
+  height: 38px;
+  width: 140px;
+  border-radius: 10px;
+  font-weight: bold;
+  border: 2px solid white;
+  background-color: transparent;
+  color: white;
+  text-align: center;
+  font-size: 12pt;
+  padding-top: 5px;
+}
+
+.des:hover {
+  border-radius: 10px;
+  font-weight: bolder;
+  border: 2px solid white;
+  background-color: transparent;
+  color: white;
+}
+
+.log:hover {
+  border-radius: 10px;
+  font-weight: bolder;
+  border: 2px solid white;
+  background-color: transparent;
+  color: white;
+}
+
+.links {
+  /*margin-top: 0.5em;*/
+  color: white;
+  border-bottom: 2px solid transparent;
+}
+
+.links:hover {
+  border-bottom: 2px solid white;
+  border-radius: 200px;
+}
+
+.products {
+  margin-top: 3em;
+  margin-bottom: 1em;
+}
+
+.products2 {
+  margin-top: 12em;
+}
+
+.workflow {
+  margin-top: 2em;
+  margin-bottom: 3em;
+}
+
+.line1 {
+  background-color: rgb(103,0,235);
+  height: 15px;
+  width: 85px;
+  border-radius: 40px;
+}
+
+.line2 {
+  background-color: #6700EB;
+  height: 13px;
+  width: 77px;
+  border-radius: 40px;
+  margin-right: 0em;
+}
+
+.line3 {
+  background-color: #6700EB;
+  height: 13px;
+  width: 77px;
+  border-radius: 40px;
+  margin-left: 0em;
+}
+
+.line03 {
+  background-color: #6700EB;
+  height: 13px;
+  width: 77px;
+  border-radius: 40px;
+  margin-right: 0em;
+}
+
+.meet {
+  text-align: center;
+  background-color: white;
+  padding-top: 4em;
+  border-radius: 5px;
+  padding-bottom: 3em;
+  width: 90%;
+  margin-left: 5%;
+  height: 390px;
+  box-shadow: 0 0 0 .1rem rgba(143,79,254,0.54);
+}
+
+.mc {
+  margin-top: 2.5em;
+}
+
+.imagine {
+  margin-top: 3em;
+}
+
+.develop {
+  margin-top: 2.8em;
+}
+
+.mcd {
+  margin-top: 1em;
+}
+
+.project {
+  margin-top: 6em;
+  font-family: 'Raleway';
+}
+
+.testimoni {
+  margin-top: 6em;
+}
+
+.footer {
+  background-image: url(../../assets/img/Vector.svg);
+  margin-top: 6em;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Raleway';
+  position: absolute;
+  width: 100%;
+}
+
+.more {
+  text-align: right;
+}
+
+.pro {
+  background-color: #6700EB;
+  border-radius: 20px;
+  box-shadow: 0 0 0 .1rem rgba(103,0,235,0.39);
+  padding-top: 5px;
+}
+
+.proo {
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.jects {
+  font-size: 32pt;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.ject {
+  font-size: 12pt;
+  margin: 0;
+  margin-left: 3px;
+}
+
+.ten {
+  padding-top: 3em;
+  font-family: 'Roboto';
+}
+
+html {
+  font-family: 'Raleway';
+}
+
+.subss {
+  margin-top: 3em;
+}
+
+.sub {
+  padding-top: 10em;
+  padding-bottom: 10em;
+}
+
+.don {
+  font-weight: bolder;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.logo {
+  text-align: right;
+  margin-top: 9em;
+  text-align: right;
+}
+
+.carr {
+  color: white;
+  font-size: 12pt;
+  margin-top: 3em;
+}
+
+.career {
+  font-weight: bolder;
+}
+
+.carpro {
+  /*margin-left: 28em;*/
+}
+
+.iconn {
+  margin-right: 1em;
+  font-size: 14pt;
+}
+
+.cp {
+  text-align: center;
+  color: white;
+  font-size: 13pt;
+  padding-top: 15px;
+}
+
+.downn {
+  color: white;
+  font-size: xx-large;
+}
+
+.btn.focus, .btn:focus {
+  /*outline: 0;*/
+  /*box-shadow: 0 0 0 .2rem rgba(0,123,255,.25);*/
+}
+
+.dess {
+  margin-right: 2em;
+  margin-left: auto;
+}
+
+.webaa {
+  margin-right: auto;
+}
+
+a, a:hover {
+  text-decoration: none;
+}
+
+.containerlink {
+  width: 200px;
+}
+
+.fus {
+  margin-right: 3em;
+}
+
+.formm {
+  margin-top: 7em;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+  color: white;
+}
+
+.test {
+  font-family: 'Raleway';
+  font-weight: bolder;
+  text-align: center;
+}
+
+.test p {
+  font-size: 16pt;
+}
+
+.review {
+  border: 1px solid rgb(103,0,235);
+  border-radius: 10px;
+  padding: 5px;
+  /*width: 80%;*/
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contentreview {
+  text-align: justify;
+  margin: 5px;
+}
+
+.imgrev {
+  text-align: center;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.namerev {
+  font-family: 'Raleway';
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  margin-bottom: 0;
+}
+
+.comrev {
+  margin-left: 1em;
+  font-size: 13pt;
+  margin-right: 1em;
+  color: rgb(164,164,164);
+}
+
+.comments {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.inforev {
+  margin-top: 2.2em;
+}
+
+.pagess {
+  background-color: #5900EB;
+  font-weight: 100;
+}
+
+.porttagline {
+  text-align: center;
+  font-family: 'Raleway';
+  font-weight: 600;
+}
+
+.portline {
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
+
+.perfect {
+  color: white;
+  background-color: rgb(89,0,235);
+}
+
+.portfolios {
+  font-family: 'Raleway';
+  text-align: center;
+  margin-top: 2em;
+}
+
+#web {
+  margin-top: 5em;
+}
+
+#app {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+#content {
+  font-family: 'Raleway';
+}
+
+.webhead {
+  text-align: right;
+}
+
+.inside {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.rowinside {
+  margin-bottom: 1em;
+  margin-top: 3em;
+}
+
+.insidebutton {
+  margin-top: 1em;
+}
+
+#mett {
+  margin-top: 8em;
+}
+
+#met {
+  margin-top: 3em;
+}
+
+#headerr {
+  margin-top: 3em;
+}
+
+.meetform {
+  font-family: 'Raleway';
+}
+
+body {
+  font-family: 'Raleway';
+}
+
+.formtitle {
+  font-weight: 600;
+}
+
+label {
+  font-weight: 600;
+  font-size: 14pt;
+}
+
+.form-row {
+  margin-top: 1em;
+}
+
+#clients {
+  text-align: center;
+  margin-top: 10em;
+}
+
+.brands {
+  color: #313437;
+}
+
+.brands a img {
+  display: inline-block;
+  margin: 10px 20px;
+  vertical-align: middle;
+}
+
+@media (max-width:767px) {
+  .brands a {
+    padding: 30px 0;
+  }
+}
+
+.brands a {
+  display: block;
+  text-align: center;
+  padding: 40px 0;
+}
+
+.ex {
+  margin-top: 0;
+}
+
+.consult {
+  margin-left: 1em;
+  margin-top: .5em;
+}
+
+.consulth2 {
+  margin-left: 0.7em;
+  font-weight: 600;
+}
+
+.separate {
+  background-color: rgb(103,0,235);
+  height: 5px;
+  width: 94%;
+  border-radius: 40px;
+}
+
+#login {
+  margin-top: 6em;
+}
+
+.formlog {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border: 1px solid rgb(89,0,235);
+  border-radius: 20px;
+  background-color: white;
+}
+
+.formbody {
+  text-align: center;
+  margin-top: 1em;
+}
+
+.wb {
+  margin-top: 1em;
+}
+
+.logbtn {
+  width: 95%;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.inlog {
+  border-radius: 10px;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 12pt;
+}
+
+.forpass {
+  margin-top: 1em;
+}
+
+.webprice {
+  margin-top: 5em;
+}
+
+.compro2 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.compro1 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bus {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
